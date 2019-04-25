@@ -40,15 +40,15 @@ npm install
 
 # Running the tests
 ```
-type npm test at the root level. 
+npm test 
 ```
 # Creating the jsonfile
 ```
-type npm start in the command prompt at the root level and analyze the data.json file in the public directory.
+npm start
 ```
 # Starting the server
 ```
-type npm run serve in the command prompt at the root level and type url http://localhost:8080 to see the visualization.
+npm run serve
 ```
 ## Restrictions
 
